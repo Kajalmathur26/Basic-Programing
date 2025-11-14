@@ -12,7 +12,7 @@ function isPrime(num) {
 console.log(isPrime(5));
 console.log(isPrime(10)); 
 
-
+//2.
 function evenOdd(num) {
     return num % 2 === 0;
 }
